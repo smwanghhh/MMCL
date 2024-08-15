@@ -1,4 +1,4 @@
-This is the code for Multi-Modality Collaborative Learning with Feature Decoupling for Sentiment Analysis  
+This is the code for Multi-Modality Collaborative Learning for Sentiment Analysis
 
 
 Environment  
